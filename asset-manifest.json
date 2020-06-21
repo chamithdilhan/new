@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacttodo.sadithapineapple.lk/static/css/main.a97be95d.chunk.css",
+    "main.js": "/reacttodo.sadithapineapple.lk/static/js/main.dffe6df9.chunk.js",
+    "main.js.map": "/reacttodo.sadithapineapple.lk/static/js/main.dffe6df9.chunk.js.map",
+    "runtime-main.js": "/reacttodo.sadithapineapple.lk/static/js/runtime-main.6592234a.js",
+    "runtime-main.js.map": "/reacttodo.sadithapineapple.lk/static/js/runtime-main.6592234a.js.map",
+    "static/js/2.0512a152.chunk.js": "/reacttodo.sadithapineapple.lk/static/js/2.0512a152.chunk.js",
+    "static/js/2.0512a152.chunk.js.map": "/reacttodo.sadithapineapple.lk/static/js/2.0512a152.chunk.js.map",
+    "index.html": "/reacttodo.sadithapineapple.lk/index.html",
+    "precache-manifest.69732c3c4f17b05bb3f47e8939999f6f.js": "/reacttodo.sadithapineapple.lk/precache-manifest.69732c3c4f17b05bb3f47e8939999f6f.js",
+    "service-worker.js": "/reacttodo.sadithapineapple.lk/service-worker.js",
+    "static/css/main.a97be95d.chunk.css.map": "/reacttodo.sadithapineapple.lk/static/css/main.a97be95d.chunk.css.map",
+    "static/js/2.0512a152.chunk.js.LICENSE.txt": "/reacttodo.sadithapineapple.lk/static/js/2.0512a152.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reacttodo.sadithapineapple.lk/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6592234a.js",
+    "static/js/2.0512a152.chunk.js",
+    "static/css/main.a97be95d.chunk.css",
+    "static/js/main.dffe6df9.chunk.js"
+  ]
+}
